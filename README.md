@@ -1,7 +1,7 @@
 # Election-Analysis-Alissa-Baigent
 Module 3 course work Election Analysis in Python
 
-##Project Overview
+## Project Overview
 Colorado Board of Elections employee named Tom requested an audit of a recent local congressional election
 
 1. calculate total number of votes cast
@@ -10,11 +10,11 @@ Colorado Board of Elections employee named Tom requested an audit of a recent lo
 4. calculate percentage of votes each candidate won
 5. determine election winner based on popular vote
 
-##Resources
+## Resources
 Data source: election_results.csv
 Software: Python 3.6 & Visual Studio Code
 
-##Summary
+## Summary
 The analysis of the election shows that:
 - there were 369,711 numebr of votes cast
 - the candidates were: 
