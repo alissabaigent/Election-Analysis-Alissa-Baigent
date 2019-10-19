@@ -1,14 +1,18 @@
 # Election-Analysis-Alissa-Baigent
-Module 3 course work Election Analysis in Python
+Module 3 Challenge Application and Course Work - Election Analysis in Python
 
 ## Project Overview
 Colorado Board of Elections employee named Tom requested an audit of a recent local congressional election
 
 1. calculate total number of votes cast
-2. get a complete list of candidates who received votes
 3. calcualate number of votes each candidate received
-4. calculate percentage of votes each candidate won
-5. determine election winner based on popular vote
+4. calcualte number of votes per county
+5. calculate percentage of votes each candidate won
+6. calculate percentage of vote per county
+7. determin which county had highest voter turnout
+8. determine election winner based on popular vote
+
+election_analysis2 text file contains full summary!
 
 ## Resources
 Data source: election_results.csv
@@ -17,6 +21,12 @@ Software: Python 3.6 & Visual Studio Code
 ## Summary
 The analysis of the election shows that:
 - there were 369,711 numebr of votes cast
+- the counties were:
+    Jefferson
+    Denver
+    Arapahoe
+- Jefferson County had the largest turnout with 82.8% of all votes cast (306,055 votes)
+
 - the candidates were: 
     Charled Casper Stockham
     Diana DeGette
